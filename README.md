@@ -1,4 +1,3 @@
-# UCLA_CSX_450_2_2018_W_Project-3
 
 # The domain of the problem
 This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive (http://lib.stat.cmu.edu/datasets/boston), and has been used extensively throughout the literature to benchmark algorithms. The Dataset consists of price of houses in various places in Boston.Alongside with price, the dataset also provide information such as Crime (CRIM), areas of non-retail business in the town (INDUS), the age of people who own the house (AGE), and there are many other attributes that available as well. 
